@@ -1,0 +1,551 @@
+,Name,Base_Attack,Base_Defense,Base_Stamina,Type1,Type2,Max_CP,Attack_Probability,Base_Capture_Rate,Base_Flee_Rate,Max_Pokemon_Action_Frequency,Min_Pokemon_Action_Frequency
+0,Bulbasaur,118,111,128,Grass,Poison,1115,0.1,0.2,0.1,1.6,0.2
+1,Ivysaur,151,143,155,Grass,Poison,1699,0.1,0.1,0.07,1.6,0.2
+2,Venusaur,198,189,190,Grass,Poison,2720,0.2,0.05,0.05,1.6,0.2
+3,Charmander,116,93,118,Fire,Not Available,980,0.1,0.2,0.1,1.6,0.2
+4,Charmeleon,158,126,151,Fire,Not Available,1653,0.1,0.1,0.07,1.6,0.2
+5,Charizard,223,173,186,Fire,Flying,2889,0.2,0.05,0.05,1.6,0.2
+6,Squirtle,94,121,127,Water,Not Available,946,0.1,0.2,0.1,1.6,0.2
+7,Wartortle,126,155,153,Water,Not Available,1488,0.1,0.1,0.07,1.6,0.2
+8,Blastoise,171,207,188,Water,Not Available,2466,0.2,0.05,0.05,1.6,0.2
+9,Caterpie,55,55,128,Bug,Not Available,437,0.1,0.5,0.2,1.6,0.2
+10,Metapod,45,80,137,Bug,Not Available,450,0.1,0.25,0.09,1.6,0.2
+11,Butterfree,167,137,155,Bug,Flying,1827,0.1,0.125,0.06,1.6,0.2
+12,Weedle,63,50,120,Bug,Poison,456,0.1,0.5,0.2,1.6,0.2
+13,Kakuna,46,75,128,Bug,Poison,432,0.2,0.25,0.09,1.6,0.2
+14,Beedrill,169,130,163,Bug,Poison,1846,0.4,0.125,0.06,1.6,0.2
+15,Pidgey,85,73,120,Normal,Flying,680,0.1,0.5,0.2,1.6,0.2
+16,Pidgeotto,117,105,160,Normal,Flying,1194,0.1,0.25,0.09,1.6,0.2
+17,Pidgeot,166,154,195,Normal,Flying,2129,0.2,0.125,0.06,1.6,0.2
+18,Rattata,103,70,102,Dark,Normal,734,0.2,0.5,0.2,1.6,0.2
+19,Rattata,103,70,102,Normal,Not Available,734,0.2,0.5,0.2,1.6,0.2
+20,Raticate,135,154,181,Dark,Normal,1705,0.2,0.2,0.07,1.6,0.2
+21,Raticate,161,139,146,Normal,Not Available,1730,0.2,0.2,0.07,1.6,0.2
+22,Spearow,112,60,120,Normal,Flying,798,0.1,0.5,0.15,1.6,0.2
+23,Fearow,182,133,163,Normal,Flying,1997,0.1,0.2,0.07,1.6,0.2
+24,Ekans,110,97,111,Poison,Not Available,927,0.2,0.5,0.15,1.6,0.2
+25,Arbok,167,153,155,Poison,Not Available,1921,0.1,0.2,0.07,1.6,0.2
+26,Pikachu,112,96,111,Electric,Not Available,938,0.1,0.2,0.1,1.6,0.2
+27,Raichu,201,154,155,Electric,Psychic,2286,0.1,0.1,0.06,1.6,0.2
+28,Raichu,193,151,155,Electric,Not Available,2182,0.1,0.1,0.06,1.6,0.2
+29,Sandshrew,125,129,137,Ice,Steel,1293,0.1,0.5,0.1,1.6,0.2
+30,Sandshrew,126,120,137,Ground,Not Available,1261,0.1,0.5,0.1,1.6,0.2
+31,Sandslash,177,195,181,Ice,Steel,2432,0.1,0.2,0.06,1.6,0.2
+32,Sandslash,182,175,181,Ground,Not Available,2374,0.1,0.2,0.06,1.6,0.2
+33,Nidoran♀,86,89,146,Poison,Not Available,816,0.1,0.5,0.15,1.6,0.2
+34,Nidorina,117,120,172,Poison,Not Available,1309,0.1,0.25,0.07,1.6,0.2
+35,Nidoqueen,180,173,207,Poison,Ground,2488,0.1,0.125,0.05,1.6,0.2
+36,Nidoran♂,105,76,130,Poison,Not Available,860,0.1,0.5,0.15,1.6,0.2
+37,Nidorino,137,111,156,Poison,Not Available,1393,0.1,0.25,0.07,1.6,0.2
+38,Nidoking,204,156,191,Poison,Ground,2567,0.1,0.125,0.05,1.6,0.2
+39,Clefairy,107,108,172,Fairy,Not Available,1155,0.1,0.3,0.1,1.6,0.2
+40,Clefable,178,162,216,Fairy,Not Available,2437,0.1,0.1,0.06,1.6,0.2
+41,Vulpix,96,109,116,Ice,Not Available,883,0.1,0.3,0.1,1.6,0.2
+42,Vulpix,96,109,116,Fire,Not Available,883,0.1,0.3,0.1,1.6,0.2
+43,Ninetales,170,193,177,Ice,Fairy,2309,0.1,0.1,0.06,1.6,0.2
+44,Ninetales,169,190,177,Fire,Not Available,2279,0.1,0.1,0.06,1.6,0.2
+45,Jigglypuff,80,41,251,Normal,Fairy,724,0.1,0.5,0.1,1.6,0.2
+46,Wigglytuff,156,90,295,Normal,Fairy,1926,0.1,0.2,0.06,1.6,0.2
+47,Zubat,83,73,120,Poison,Flying,667,0.1,0.5,0.2,1.6,0.2
+48,Golbat,161,150,181,Poison,Flying,1976,0.1,0.2,0.07,1.6,0.2
+49,Oddish,131,112,128,Grass,Poison,1228,0.1,0.6,0.15,1.6,0.2
+50,Gloom,153,136,155,Grass,Poison,1681,0.1,0.3,0.07,1.6,0.2
+51,Vileplume,202,167,181,Grass,Poison,2559,0.1,0.15,0.05,1.6,0.2
+52,Paras,121,99,111,Bug,Grass,1018,0.1,0.4,0.15,1.6,0.2
+53,Parasect,165,146,155,Bug,Grass,1859,0.1,0.2,0.07,1.6,0.2
+54,Venonat,100,100,155,Bug,Poison,1004,0.1,0.5,0.15,1.6,0.2
+55,Venomoth,179,143,172,Bug,Poison,2082,0.1,0.2,0.07,1.6,0.2
+56,Diglett,108,81,67,Ground,Steel,681,0.1,0.5,0.1,1.6,0.2
+57,Diglett,109,78,67,Ground,Not Available,676,0.1,0.5,0.1,1.6,0.2
+58,Dugtrio,201,142,111,Ground,Steel,1897,0.1,0.2,0.06,1.6,0.2
+59,Dugtrio,167,136,111,Ground,Not Available,1567,0.1,0.2,0.06,1.6,0.2
+60,Meowth,99,78,120,Dark,Not Available,797,0.1,0.5,0.15,1.6,0.2
+61,Meowth,92,78,120,Normal,Not Available,748,0.1,0.5,0.15,1.6,0.2
+62,Persian,158,136,163,Dark,Not Available,1771,0.1,0.2,0.07,1.6,0.2
+63,Persian,150,136,163,Normal,Not Available,1689,0.1,0.2,0.07,1.6,0.2
+64,Psyduck,122,95,137,Water,Not Available,1106,0.1,0.5,0.1,1.6,0.2
+65,Golduck,191,162,190,Water,Not Available,2450,0.1,0.2,0.06,1.6,0.2
+66,Mankey,148,82,120,Fighting,Not Available,1164,0.2,0.5,0.1,1.6,0.2
+67,Primeape,207,138,163,Fighting,Not Available,2288,0.3,0.2,0.06,1.6,0.2
+68,Growlithe,136,93,146,Fire,Not Available,1243,0.1,0.3,0.1,1.6,0.2
+69,Arcanine,227,166,207,Fire,Not Available,3029,0.1,0.1,0.06,1.6,0.2
+70,Poliwag,101,82,120,Water,Not Available,829,0.1,0.5,0.15,1.6,0.2
+71,Poliwhirl,130,123,163,Water,Not Available,1419,0.1,0.25,0.07,1.6,0.2
+72,Poliwrath,182,184,207,Water,Fighting,2586,0.1,0.125,0.05,1.6,0.2
+73,Abra,195,82,93,Psychic,Not Available,1342,0.05,0.5,0.99,1.6,0.2
+74,Kadabra,232,117,120,Psychic,Not Available,2059,0.1,0.25,0.07,1.6,0.2
+75,Alakazam,271,167,146,Psychic,Not Available,3057,0.1,0.1,0.05,1.6,0.2
+76,Machop,137,82,172,Fighting,Not Available,1278,0.1,0.5,0.1,1.6,0.2
+77,Machoke,177,125,190,Fighting,Not Available,2031,0.1,0.25,0.07,1.6,0.2
+78,Machamp,234,159,207,Fighting,Not Available,3056,0.1,0.1,0.05,1.6,0.2
+79,Bellsprout,139,61,137,Grass,Poison,1033,0.1,0.5,0.15,1.6,0.2
+80,Weepinbell,172,92,163,Grass,Poison,1611,0.1,0.25,0.07,1.6,0.2
+81,Victreebel,207,135,190,Grass,Poison,2431,0.1,0.125,0.05,1.6,0.2
+82,Tentacool,97,149,120,Water,Poison,1040,0.1,0.5,0.15,1.6,0.2
+83,Tentacruel,166,209,190,Water,Poison,2422,0.1,0.2,0.07,1.6,0.2
+84,Geodude,132,132,120,Rock,Electric,1293,0.2,0.5,0.1,1.6,0.2
+85,Geodude,132,132,120,Rock,Ground,1293,0.2,0.5,0.1,1.6,0.2
+86,Graveler,164,164,146,Rock,Electric,1897,0.1,0.25,0.07,1.6,0.2
+87,Graveler,164,164,146,Rock,Ground,1897,0.1,0.25,0.07,1.6,0.2
+88,Golem,211,198,190,Rock,Electric,2949,0.1,0.125,0.05,1.6,0.2
+89,Golem,211,198,190,Rock,Ground,2949,0.1,0.125,0.05,1.6,0.2
+90,Ponyta,170,127,137,Fire,Not Available,1697,0.1,0.4,0.1,1.6,0.2
+91,Rapidash,207,162,163,Fire,Not Available,2461,0.1,0.15,0.06,1.6,0.2
+92,Slowpoke,109,98,207,Water,Psychic,1226,0.05,0.5,0.1,1.6,0.2
+93,Slowbro,177,180,216,Water,Psychic,2545,0.05,0.2,0.06,1.6,0.2
+94,Magnemite,165,121,93,Electric,Steel,1362,0.1,0.5,0.1,1.6,0.2
+95,Magneton,223,169,137,Electric,Steel,2485,0.1,0.2,0.06,1.6,0.2
+96,Farfetch’d,124,115,141,Normal,Flying,1236,0.1,0.3,0.09,1.6,0.2
+97,Doduo,158,83,111,Normal,Flying,1200,0.1,0.5,0.1,1.6,0.2
+98,Dodrio,218,140,155,Normal,Flying,2362,0.1,0.2,0.06,1.6,0.2
+99,Seel,85,121,163,Water,Not Available,971,0.1,0.5,0.09,1.6,0.2
+100,Dewgong,139,177,207,Water,Ice,1985,0.1,0.2,0.06,1.6,0.2
+101,Grimer,135,90,190,Poison,Dark,1374,0.1,0.5,0.1,1.6,0.2
+102,Grimer,135,90,190,Poison,Not Available,1374,0.1,0.5,0.1,1.6,0.2
+103,Muk,190,172,233,Poison,Dark,2757,0.1,0.2,0.06,1.6,0.2
+104,Muk,190,172,233,Poison,Not Available,2757,0.1,0.2,0.06,1.6,0.2
+105,Shellder,116,134,102,Water,Not Available,1080,0.1,0.5,0.1,1.6,0.2
+106,Cloyster,186,256,137,Water,Ice,2547,0.1,0.2,0.06,1.6,0.2
+107,Gastly,186,67,102,Ghost,Poison,1229,0.1,0.4,0.1,1.6,0.2
+108,Haunter,223,107,128,Ghost,Poison,1963,0.1,0.2,0.07,1.6,0.2
+109,Gengar,261,149,155,Ghost,Poison,2878,0.1,0.1,0.05,1.6,0.2
+110,Onix,85,232,111,Rock,Ground,1101,0.1,0.2,0.09,1.6,0.2
+111,Drowzee,89,136,155,Psychic,Not Available,1040,0.1,0.5,0.1,1.6,0.2
+112,Hypno,144,193,198,Psychic,Not Available,2090,0.1,0.2,0.06,1.6,0.2
+113,Krabby,181,124,102,Water,Not Available,1561,0.2,0.5,0.15,1.6,0.2
+114,Kingler,240,181,146,Water,Not Available,2829,0.2,0.2,0.07,1.6,0.2
+115,Voltorb,109,111,120,Electric,Not Available,1010,0.1,0.5,0.1,1.6,0.2
+116,Electrode,173,173,155,Electric,Not Available,2099,0.1,0.2,0.06,1.6,0.2
+117,Exeggcute,107,125,155,Grass,Psychic,1175,0.1,0.5,0.1,1.6,0.2
+118,Exeggutor,230,153,216,Grass,Dragon,3014,0.1,0.2,0.06,1.6,0.2
+119,Exeggutor,233,149,216,Grass,Psychic,3014,0.1,0.2,0.06,1.6,0.2
+120,Cubone,90,144,137,Ground,Not Available,1019,0.1,0.4,0.1,1.6,0.2
+121,Marowak,144,186,155,Fire,Ghost,1835,0.1,0.15,0.06,1.6,0.2
+122,Marowak,144,186,155,Ground,Not Available,1835,0.1,0.15,0.06,1.6,0.2
+123,Hitmonlee,224,181,137,Fighting,Not Available,2576,0.2,0.2,0.09,1.6,0.2
+124,Hitmonchan,193,197,137,Fighting,Not Available,2332,0.2,0.2,0.09,1.6,0.2
+125,Lickitung,108,137,207,Normal,Not Available,1411,0.1,0.2,0.09,1.6,0.2
+126,Koffing,119,141,120,Poison,Not Available,1214,0.1,0.5,0.1,1.6,0.2
+127,Weezing,174,197,163,Poison,Not Available,2293,0.1,0.2,0.06,1.6,0.2
+128,Rhyhorn,140,127,190,Ground,Rock,1651,0.2,0.5,0.1,1.6,0.2
+129,Rhydon,222,171,233,Ground,Rock,3179,0.2,0.05,0.06,1.6,0.2
+130,Chansey,60,128,487,Normal,Not Available,1255,0.1,0.2,0.09,1.6,0.2
+131,Tangela,183,169,163,Grass,Not Available,2238,0.1,0.4,0.09,1.6,0.2
+132,Kangaskhan,181,165,233,Normal,Not Available,2586,0.1,0.2,0.09,1.6,0.2
+133,Horsea,129,103,102,Water,Not Available,1056,0.1,0.5,0.1,1.6,0.2
+134,Seadra,187,156,146,Water,Not Available,2093,0.1,0.2,0.06,1.6,0.2
+135,Goldeen,123,110,128,Water,Not Available,1152,0.1,0.5,0.15,1.6,0.2
+136,Seaking,175,147,190,Water,Not Available,2162,0.1,0.2,0.07,1.6,0.2
+137,Staryu,137,112,102,Water,Not Available,1157,0.1,0.5,0.15,1.6,0.2
+138,Starmie,210,184,155,Water,Psychic,2584,0.1,0.2,0.06,1.6,0.2
+139,Mr. Mime,192,205,120,Psychic,Fairy,2228,0.1,0.3,0.09,1.6,0.2
+140,Scyther,218,170,172,Bug,Flying,2706,0.2,0.3,0.09,1.6,0.2
+141,Jynx,223,151,163,Ice,Psychic,2555,0.1,0.3,0.09,1.6,0.2
+142,Electabuzz,198,158,163,Electric,Not Available,2334,0.1,0.2,0.09,1.6,0.2
+143,Magmar,206,154,163,Fire,Not Available,2394,0.1,0.2,0.09,1.6,0.2
+144,Pinsir,238,182,163,Bug,Not Available,2959,0.1,0.3,0.09,1.6,0.2
+145,Tauros,198,183,181,Normal,Not Available,2620,0.1,0.3,0.09,1.6,0.2
+146,Magikarp,29,85,85,Water,Not Available,274,0.2,0.7,0.15,1.6,0.2
+147,Gyarados,237,186,216,Water,Flying,3391,0.4,0.1,0.07,1.6,0.2
+148,Lapras,165,174,277,Water,Ice,2641,0.15,0.05,0.09,1.6,0.2
+149,Ditto,91,91,134,Normal,Not Available,832,0.1,0.2,0.1,1.6,0.2
+150,Eevee,104,114,146,Normal,Not Available,1071,0.1,0.4,0.1,1.6,0.2
+151,Vaporeon,205,161,277,Water,Not Available,3114,0.1,0.125,0.06,1.6,0.2
+152,Jolteon,232,182,163,Electric,Not Available,2888,0.1,0.125,0.06,1.6,0.2
+153,Flareon,246,179,163,Fire,Not Available,3029,0.1,0.125,0.06,1.6,0.2
+154,Porygon,153,136,163,Normal,Not Available,1720,0.1,0.4,0.09,1.6,0.2
+155,Omanyte,155,153,111,Rock,Water,1544,0.1,0.4,0.09,1.6,0.2
+156,Omastar,207,201,172,Rock,Water,2786,0.1,0.15,0.05,1.6,0.2
+157,Kabuto,148,140,102,Rock,Water,1370,0.1,0.4,0.09,1.6,0.2
+158,Kabutops,220,186,155,Rock,Water,2713,0.1,0.15,0.05,1.6,0.2
+159,Aerodactyl,221,159,190,Rock,Flying,2783,0.1,0.2,0.09,1.6,0.2
+160,Snorlax,190,169,330,Normal,Not Available,3225,0.1,0.05,0.09,1.6,0.2
+161,Articuno,192,236,207,Ice,Flying,3051,0.1,0.03,0.1,1.6,0.2
+162,Zapdos,253,185,207,Electric,Flying,3527,0.1,0.03,0.1,1.6,0.2
+163,Moltres,251,181,207,Fire,Flying,3465,0.1,0.03,0.1,1.6,0.2
+164,Dratini,119,91,121,Dragon,Not Available,1004,0.1,0.4,0.09,1.6,0.2
+165,Dragonair,163,135,156,Dragon,Not Available,1780,0.1,0.1,0.06,1.6,0.2
+166,Dragonite,263,198,209,Dragon,Flying,3792,0.1,0.05,0.05,1.6,0.2
+167,Mewtwo,300,182,214,Psychic,Not Available,4178,0.1,0.06,0.1,1.6,0.2
+168,Mew,210,210,225,Psychic,Not Available,3265,0.0,100.0,0.0,1.6,0.2
+169,Chikorita,92,122,128,Grass,Not Available,935,0.1,0.2,0.1,1.6,0.2
+170,Bayleef,122,155,155,Grass,Not Available,1454,0.1,0.125,0.07,1.6,0.2
+171,Meganium,168,202,190,Grass,Not Available,2410,0.2,0.05,0.05,1.6,0.2
+172,Cyndaquil,116,93,118,Fire,Not Available,980,0.1,0.2,0.1,1.6,0.2
+173,Quilava,158,126,151,Fire,Not Available,1653,0.1,0.125,0.07,1.6,0.2
+174,Typhlosion,223,173,186,Fire,Not Available,2889,0.2,0.05,0.05,1.6,0.2
+175,Totodile,117,109,137,Water,Not Available,1131,0.1,0.2,0.1,1.6,0.2
+176,Croconaw,150,142,163,Water,Not Available,1722,0.1,0.125,0.07,1.6,0.2
+177,Feraligatr,205,188,198,Water,Not Available,2857,0.2,0.05,0.05,1.6,0.2
+178,Sentret,79,73,111,Normal,Not Available,618,0.1,0.5,0.2,1.6,0.2
+179,Furret,148,125,198,Normal,Not Available,1758,0.1,0.15,0.07,1.6,0.2
+180,Hoothoot,67,88,155,Normal,Flying,677,0.1,0.5,0.15,1.6,0.2
+181,Noctowl,145,156,225,Normal,Flying,2024,0.1,0.15,0.07,1.6,0.2
+182,Ledyba,72,118,120,Bug,Flying,728,0.1,0.5,0.2,1.6,0.2
+183,Ledian,107,179,146,Bug,Flying,1346,0.1,0.15,0.07,1.6,0.2
+184,Spinarak,105,73,120,Bug,Poison,816,0.1,0.5,0.2,1.6,0.2
+185,Ariados,161,124,172,Bug,Poison,1772,0.1,0.15,0.07,1.6,0.2
+186,Crobat,194,178,198,Poison,Flying,2646,0.1,0.1,0.05,1.6,0.2
+187,Chinchou,106,97,181,Water,Electric,1119,0.1,0.4,0.1,1.6,0.2
+188,Lanturn,146,137,268,Water,Electric,2085,0.1,0.15,0.07,1.6,0.2
+189,Pichu,77,53,85,Electric,Not Available,473,0.1,0.0,0.05,1.6,0.2
+190,Cleffa,75,79,137,Fairy,Not Available,671,0.1,0.0,0.05,1.6,0.2
+191,Igglybuff,69,32,207,Normal,Fairy,535,0.1,0.0,0.05,1.6,0.2
+192,Togepi,67,116,111,Fairy,Not Available,657,0.1,0.0,0.05,1.6,0.2
+193,Togetic,139,181,146,Fairy,Flying,1708,0.1,0.05,0.05,1.6,0.2
+194,Natu,134,89,120,Psychic,Flying,1102,0.1,0.4,0.15,1.6,0.2
+195,Xatu,192,146,163,Psychic,Flying,2188,0.1,0.15,0.07,1.6,0.2
+196,Mareep,114,79,146,Electric,Not Available,991,0.1,0.5,0.1,1.6,0.2
+197,Flaaffy,145,109,172,Electric,Not Available,1521,0.1,0.25,0.07,1.6,0.2
+198,Ampharos,211,169,207,Electric,Not Available,2852,0.1,0.125,0.05,1.6,0.2
+199,Bellossom,169,186,181,Grass,Not Available,2281,0.1,0.05,0.05,1.6,0.2
+200,Marill,37,93,172,Water,Fairy,461,0.1,0.5,0.1,1.6,0.2
+201,Azumarill,112,152,225,Water,Fairy,1588,0.1,0.15,0.07,1.6,0.2
+202,Sudowoodo,167,176,172,Rock,Not Available,2148,0.05,0.125,0.05,1.6,0.2
+203,Politoed,174,179,207,Water,Not Available,2449,0.1,0.1,0.05,1.6,0.2
+204,Hoppip,67,94,111,Grass,Flying,600,0.1,0.5,0.12,1.6,0.2
+205,Skiploom,91,120,146,Grass,Flying,976,0.1,0.25,0.07,1.6,0.2
+206,Jumpluff,118,183,181,Grass,Flying,1636,0.1,0.125,0.05,1.6,0.2
+207,Aipom,136,112,146,Normal,Not Available,1348,0.1,0.2,0.09,1.6,0.2
+208,Sunkern,55,55,102,Grass,Not Available,395,0.1,0.5,0.09,1.6,0.2
+209,Sunflora,185,135,181,Grass,Not Available,2141,0.1,0.1,0.07,1.6,0.2
+210,Yanma,154,94,163,Bug,Flying,1470,0.1,0.3,0.1,1.6,0.2
+211,Wooper,75,66,146,Water,Ground,641,0.05,0.4,0.1,1.6,0.2
+212,Quagsire,152,143,216,Water,Ground,1992,0.05,0.15,0.07,1.6,0.2
+213,Espeon,261,175,163,Psychic,Not Available,3170,0.1,0.0,0.05,1.6,0.2
+214,Umbreon,126,240,216,Dark,Not Available,2137,0.1,0.0,0.05,1.6,0.2
+215,Murkrow,175,87,155,Dark,Flying,1562,0.1,0.2,0.1,1.6,0.2
+216,Slowking,177,180,216,Water,Psychic,2545,0.05,0.1,0.05,1.6,0.2
+217,Misdreavus,167,154,155,Ghost,Not Available,1926,0.1,0.3,0.07,1.6,0.2
+218,Unown,136,91,134,Psychic,Not Available,1185,0.1,0.3,0.1,1.6,0.2
+219,Wobbuffet,60,106,382,Psychic,Not Available,1026,0.05,0.25,0.07,1.6,0.2
+220,Girafarig,182,133,172,Normal,Psychic,2046,0.1,0.3,0.07,1.6,0.2
+221,Pineco,108,122,137,Bug,Not Available,1108,0.1,0.4,0.12,1.6,0.2
+222,Forretress,161,205,181,Bug,Steel,2282,0.1,0.15,0.07,1.6,0.2
+223,Dunsparce,131,128,225,Normal,Not Available,1689,0.1,0.3,0.2,1.6,0.2
+224,Gligar,143,184,163,Ground,Flying,1857,0.1,0.2,0.07,1.6,0.2
+225,Steelix,148,272,181,Steel,Ground,2414,0.1,0.1,0.05,1.6,0.2
+226,Snubbull,137,85,155,Fairy,Not Available,1237,0.2,0.4,0.1,1.6,0.2
+227,Granbull,212,131,207,Fairy,Not Available,2552,0.2,0.15,0.08,1.6,0.2
+228,Qwilfish,184,138,163,Water,Poison,2051,0.1,0.3,0.08,1.6,0.2
+229,Scizor,236,181,172,Bug,Steel,3001,0.1,0.05,0.05,1.6,0.2
+230,Shuckle,17,396,85,Bug,Rock,405,0.1,0.3,0.07,1.6,0.2
+231,Heracross,234,179,190,Bug,Fighting,3101,0.2,0.3,0.09,1.6,0.2
+232,Sneasel,189,146,146,Dark,Ice,2051,0.2,0.2,0.07,1.6,0.2
+233,Teddiursa,142,93,155,Normal,Not Available,1328,0.1,0.5,0.2,1.6,0.2
+234,Ursaring,236,144,207,Normal,Not Available,2945,0.1,0.15,0.07,1.6,0.2
+235,Slugma,118,71,120,Fire,Not Available,895,0.1,0.3,0.1,1.6,0.2
+236,Magcargo,139,191,137,Fire,Rock,1702,0.1,0.125,0.06,1.6,0.2
+237,Swinub,90,69,137,Ice,Ground,741,0.1,0.3,0.1,1.6,0.2
+238,Piloswine,181,138,225,Ice,Ground,2345,0.1,0.125,0.06,1.6,0.2
+239,Corsola,118,156,146,Water,Rock,1378,0.1,0.3,0.12,1.6,0.2
+240,Remoraid,127,69,111,Water,Not Available,912,0.1,0.5,0.1,1.6,0.2
+241,Octillery,197,141,181,Water,Not Available,2315,0.1,0.15,0.07,1.6,0.2
+242,Delibird,128,90,128,Ice,Flying,1094,0.1,0.2,0.2,1.6,0.2
+243,Mantine,148,226,163,Water,Flying,2108,0.1,0.3,0.07,1.6,0.2
+244,Skarmory,148,226,163,Steel,Flying,2108,0.1,0.2,0.09,1.6,0.2
+245,Houndour,152,83,128,Dark,Fire,1234,0.2,0.4,0.1,1.6,0.2
+246,Houndoom,224,144,181,Dark,Fire,2635,0.2,0.15,0.06,1.6,0.2
+247,Kingdra,194,194,181,Water,Dragon,2641,0.1,0.1,0.05,1.6,0.2
+248,Phanpy,107,98,207,Ground,Not Available,1206,0.1,0.5,0.2,1.6,0.2
+249,Donphan,214,185,207,Ground,Not Available,3013,0.1,0.125,0.07,1.6,0.2
+250,Porygon2,198,180,198,Normal,Not Available,2711,0.1,0.05,0.05,1.6,0.2
+251,Stantler,192,131,177,Normal,Not Available,2164,0.1,0.3,0.08,1.6,0.2
+252,Smeargle,40,83,146,Normal,Not Available,431,0.1,0.25,0.07,1.6,0.2
+253,Tyrogue,64,64,111,Fighting,Not Available,492,0.1,0.0,0.2,1.6,0.2
+254,Hitmontop,173,207,137,Fighting,Not Available,2156,0.1,0.1,0.05,1.6,0.2
+255,Smoochum,153,91,128,Ice,Psychic,1291,0.1,0.0,0.2,1.6,0.2
+256,Elekid,135,101,128,Electric,Not Available,1206,0.1,0.0,0.2,1.6,0.2
+257,Magby,151,99,128,Fire,Not Available,1323,0.1,0.0,0.2,1.6,0.2
+258,Miltank,157,193,216,Normal,Not Available,2354,0.1,0.2,0.08,1.6,0.2
+259,Blissey,129,169,496,Normal,Not Available,2757,0.1,0.05,0.05,1.6,0.2
+260,Raikou,241,195,207,Electric,Not Available,3452,0.1,0.02,0.04,1.6,0.2
+261,Entei,235,171,251,Fire,Not Available,3473,0.1,0.02,0.04,1.6,0.2
+262,Suicune,180,235,225,Water,Not Available,2983,0.1,0.02,0.04,1.6,0.2
+263,Larvitar,115,93,137,Rock,Ground,1040,0.3,0.4,0.1,1.6,0.2
+264,Pupitar,155,133,172,Rock,Ground,1766,0.3,0.1,0.07,1.6,0.2
+265,Tyranitar,251,207,225,Rock,Dark,3834,0.3,0.05,0.04,1.6,0.2
+266,Lugia,193,310,235,Psychic,Flying,3703,0.1,0.02,0.04,1.6,0.2
+267,Ho-Oh,239,244,214,Fire,Flying,3863,0.1,0.02,0.04,1.6,0.2
+268,Celebi,210,210,225,Psychic,Grass,3265,0.1,100.0,0.0,1.6,0.2
+269,Treecko,124,94,120,Grass,Not Available,1053,0.1,0.2,0.1,1.6,0.2
+270,Grovyle,172,120,137,Grass,Not Available,1673,0.1,0.1,0.07,1.6,0.2
+271,Sceptile,223,169,172,Grass,Not Available,2757,0.2,0.05,0.05,1.6,0.2
+272,Torchic,130,87,128,Fire,Not Available,1093,0.1,0.2,0.1,1.6,0.2
+273,Combusken,163,115,155,Fire,Fighting,1652,0.1,0.1,0.07,1.6,0.2
+274,Blaziken,240,141,190,Fire,Fighting,2848,0.2,0.05,0.05,1.6,0.2
+275,Mudkip,126,93,137,Water,Not Available,1128,0.1,0.2,0.1,1.6,0.2
+276,Marshtomp,156,133,172,Water,Ground,1776,0.1,0.1,0.07,1.6,0.2
+277,Swampert,208,175,225,Water,Ground,2974,0.2,0.05,0.05,1.6,0.2
+278,Poochyena,96,61,111,Dark,Not Available,678,0.1,0.5,0.2,1.6,0.2
+279,Mightyena,171,132,172,Dark,Not Available,1926,0.2,0.2,0.07,1.6,0.2
+280,Zigzagoon,58,80,116,Normal,Not Available,508,0.1,0.5,0.2,1.6,0.2
+281,Linoone,142,128,186,Normal,Not Available,1662,0.1,0.2,0.07,1.6,0.2
+282,Wurmple,75,59,128,Bug,Not Available,578,0.1,0.5,0.2,1.6,0.2
+283,Silcoon,60,77,137,Bug,Not Available,553,0.05,0.25,0.09,1.6,0.2
+284,Beautifly,189,98,155,Bug,Flying,1765,0.1,0.125,0.06,1.6,0.2
+285,Cascoon,60,77,137,Bug,Not Available,553,0.05,0.25,0.09,1.6,0.2
+286,Dustox,98,162,155,Bug,Poison,1224,0.1,0.125,0.06,1.6,0.2
+287,Lotad,71,77,120,Water,Grass,598,0.1,0.5,0.2,1.6,0.2
+288,Lombre,112,119,155,Water,Grass,1197,0.1,0.25,0.09,1.6,0.2
+289,Ludicolo,173,176,190,Water,Grass,2323,0.2,0.125,0.06,1.6,0.2
+290,Seedot,71,77,120,Grass,Not Available,598,0.1,0.5,0.2,1.6,0.2
+291,Nuzleaf,134,78,172,Grass,Dark,1227,0.1,0.25,0.09,1.6,0.2
+292,Shiftry,200,121,207,Grass,Dark,2333,0.2,0.125,0.06,1.6,0.2
+293,Taillow,106,61,120,Normal,Flying,765,0.1,0.5,0.2,1.6,0.2
+294,Swellow,185,124,155,Normal,Flying,1920,0.1,0.2,0.07,1.6,0.2
+295,Wingull,106,61,120,Water,Flying,765,0.1,0.5,0.2,1.6,0.2
+296,Pelipper,175,174,155,Water,Flying,2127,0.1,0.2,0.07,1.6,0.2
+297,Ralts,79,59,99,Psychic,Fairy,539,0.1,0.4,0.09,1.6,0.2
+298,Kirlia,117,90,116,Psychic,Fairy,966,0.1,0.1,0.06,1.6,0.2
+299,Gardevoir,237,195,169,Psychic,Fairy,3093,0.2,0.05,0.05,1.6,0.2
+300,Surskit,93,87,120,Bug,Water,791,0.1,0.5,0.2,1.6,0.2
+301,Masquerain,192,150,172,Bug,Flying,2270,0.1,0.2,0.07,1.6,0.2
+302,Shroomish,74,110,155,Grass,Not Available,810,0.1,0.5,0.2,1.6,0.2
+303,Breloom,241,144,155,Grass,Fighting,2628,0.3,0.2,0.07,1.6,0.2
+304,Slakoth,104,92,155,Normal,Not Available,1002,0.01,0.4,0.09,1.6,0.2
+305,Vigoroth,159,145,190,Normal,Not Available,1968,0.7,0.1,0.06,1.6,0.2
+306,Slaking,290,166,284,Normal,Not Available,4431,0.1,0.05,0.05,1.6,0.2
+307,Nincada,80,126,104,Bug,Ground,768,0.1,0.2,0.1,1.6,0.2
+308,Ninjask,199,112,156,Bug,Flying,1969,0.1,0.1,0.07,1.6,0.2
+309,Shedinja,153,73,1,Bug,Ghost,393,0.1,0.05,0.05,1.6,0.2
+310,Whismur,92,42,162,Normal,Not Available,671,0.3,0.5,0.2,1.6,0.2
+311,Loudred,134,81,197,Normal,Not Available,1327,0.3,0.25,0.09,1.6,0.2
+312,Exploud,179,137,232,Normal,Not Available,2347,0.4,0.125,0.06,1.6,0.2
+313,Makuhita,99,54,176,Fighting,Not Available,817,0.2,0.5,0.1,1.6,0.2
+314,Hariyama,209,114,302,Fighting,Not Available,2829,0.2,0.2,0.06,1.6,0.2
+315,Azurill,36,71,137,Normal,Fairy,364,0.1,0.1,0.04,1.6,0.2
+316,Nosepass,82,215,102,Rock,Not Available,993,0.1,0.2,0.09,1.6,0.2
+317,Skitty,84,79,137,Normal,Not Available,739,0.1,0.5,0.1,1.6,0.2
+318,Delcatty,132,127,172,Normal,Not Available,1496,0.2,0.2,0.06,1.6,0.2
+319,Sableye,141,136,137,Dark,Ghost,1476,0.3,0.2,0.07,1.6,0.2
+320,Mawile,155,141,137,Steel,Fairy,1634,0.2,0.5,0.09,1.6,0.2
+321,Aron,121,141,137,Steel,Rock,1307,0.2,0.5,0.2,1.6,0.2
+322,Lairon,158,198,155,Steel,Rock,2056,0.2,0.25,0.09,1.6,0.2
+323,Aggron,198,257,172,Steel,Rock,3000,0.3,0.125,0.06,1.6,0.2
+324,Meditite,78,107,102,Fighting,Psychic,693,0.2,0.5,0.1,1.6,0.2
+325,Medicham,121,152,155,Fighting,Psychic,1431,0.2,0.2,0.06,1.6,0.2
+326,Electrike,123,78,120,Electric,Not Available,965,0.1,0.5,0.1,1.6,0.2
+327,Manectric,215,127,172,Electric,Not Available,2340,0.1,0.2,0.06,1.6,0.2
+328,Plusle,167,129,155,Electric,Not Available,1778,0.1,0.3,0.09,1.6,0.2
+329,Minun,147,150,155,Electric,Not Available,1694,0.1,0.3,0.09,1.6,0.2
+330,Volbeat,143,166,163,Bug,Not Available,1771,0.1,0.3,0.09,1.6,0.2
+331,Illumise,143,166,163,Bug,Not Available,1771,0.1,0.3,0.09,1.6,0.2
+332,Roselia,186,131,137,Grass,Poison,1870,0.1,0.3,0.09,1.6,0.2
+333,Gulpin,80,99,172,Poison,Not Available,866,0.1,0.5,0.1,1.6,0.2
+334,Swalot,140,159,225,Poison,Not Available,1978,0.1,0.2,0.06,1.6,0.2
+335,Carvanha,171,39,128,Water,Dark,1020,0.3,0.5,0.1,1.6,0.2
+336,Sharpedo,243,83,172,Water,Dark,2181,0.5,0.2,0.06,1.6,0.2
+337,Wailmer,136,68,277,Water,Not Available,1468,0.05,0.5,0.1,1.6,0.2
+338,Wailord,175,87,347,Water,Not Available,2280,0.05,0.2,0.06,1.6,0.2
+339,Numel,119,79,155,Fire,Ground,1057,0.1,0.5,0.1,1.6,0.2
+340,Camerupt,194,136,172,Fire,Ground,2193,0.2,0.2,0.06,1.6,0.2
+341,Torkoal,151,203,172,Fire,Not Available,2093,0.1,0.3,0.09,1.6,0.2
+342,Spoink,125,122,155,Psychic,Not Available,1334,0.2,0.5,0.1,1.6,0.2
+343,Grumpig,171,188,190,Psychic,Not Available,2369,0.1,0.2,0.06,1.6,0.2
+344,Spinda,116,116,155,Normal,Not Available,1220,0.01,0.3,0.09,1.6,0.2
+345,Trapinch,162,78,128,Ground,Not Available,1274,0.2,0.4,0.09,1.6,0.2
+346,Vibrava,134,99,137,Ground,Dragon,1225,0.2,0.1,0.06,1.6,0.2
+347,Flygon,205,168,190,Ground,Dragon,2661,0.1,0.05,0.05,1.6,0.2
+348,Cacnea,156,74,137,Grass,Not Available,1242,0.2,0.5,0.1,1.6,0.2
+349,Cacturne,221,115,172,Grass,Dark,2298,0.3,0.2,0.06,1.6,0.2
+350,Swablu,76,132,128,Normal,Flying,824,0.05,0.5,0.1,1.6,0.2
+351,Altaria,141,201,181,Dragon,Flying,2004,0.1,0.2,0.06,1.6,0.2
+352,Zangoose,222,124,177,Normal,Not Available,2418,0.2,0.3,0.09,1.6,0.2
+353,Seviper,196,118,177,Poison,Not Available,2105,0.2,0.3,0.09,1.6,0.2
+354,Lunatone,178,153,207,Rock,Psychic,2327,0.1,0.3,0.09,1.6,0.2
+355,Solrock,178,153,207,Rock,Psychic,2327,0.1,0.3,0.09,1.6,0.2
+356,Barboach,93,82,137,Water,Ground,819,0.1,0.5,0.1,1.6,0.2
+357,Whiscash,151,141,242,Water,Ground,2075,0.1,0.2,0.06,1.6,0.2
+358,Corphish,141,99,125,Water,Not Available,1230,0.1,0.5,0.1,1.6,0.2
+359,Crawdaunt,224,142,160,Water,Dark,2474,0.2,0.2,0.06,1.6,0.2
+360,Baltoy,77,124,120,Ground,Psychic,787,0.1,0.5,0.1,1.6,0.2
+361,Claydol,140,229,155,Ground,Psychic,1971,0.1,0.2,0.06,1.6,0.2
+362,Lileep,105,150,165,Rock,Grass,1291,0.2,0.5,0.1,1.6,0.2
+363,Cradily,152,194,200,Rock,Grass,2211,0.2,0.2,0.06,1.6,0.2
+364,Anorith,176,100,128,Rock,Bug,1529,0.1,0.5,0.1,1.6,0.2
+365,Armaldo,222,174,181,Rock,Bug,2848,0.1,0.2,0.06,1.6,0.2
+366,Feebas,29,85,85,Water,Not Available,274,0.1,0.7,0.15,1.6,0.2
+367,Milotic,192,219,216,Water,Not Available,3005,0.1,0.1,0.07,1.6,0.2
+368,Castform,139,139,172,Normal,Not Available,1632,0.1,0.3,0.1,1.6,0.2
+369,Castform,139,139,172,Water,Not Available,1632,0.1,0.3,0.1,1.6,0.2
+370,Castform,139,139,172,Ice,Not Available,1632,0.1,0.3,0.1,1.6,0.2
+371,Castform,139,139,172,Fire,Not Available,1632,0.1,0.3,0.1,1.6,0.2
+372,Kecleon,161,189,155,Normal,Not Available,2047,0.1,0.3,0.1,1.6,0.2
+373,Shuppet,138,65,127,Ghost,Not Available,1018,0.1,0.4,0.1,1.6,0.2
+374,Banette,218,126,162,Ghost,Not Available,2298,0.2,0.2,0.07,1.6,0.2
+375,Duskull,70,162,85,Ghost,Not Available,706,0.1,0.4,0.1,1.6,0.2
+376,Dusclops,124,234,120,Ghost,Not Available,1591,0.2,0.2,0.07,1.6,0.2
+377,Tropius,136,163,223,Grass,Flying,1941,0.1,0.3,0.1,1.6,0.2
+378,Chimecho,175,170,181,Psychic,Not Available,2259,0.05,0.3,0.1,1.6,0.2
+379,Absol,246,120,163,Dark,Not Available,2526,0.2,0.5,0.1,1.6,0.2
+380,Wynaut,41,86,216,Psychic,Not Available,534,0.1,0.3,0.1,1.6,0.2
+381,Snorunt,95,95,137,Ice,Not Available,888,0.1,0.5,0.1,1.6,0.2
+382,Glalie,162,162,190,Ice,Not Available,2105,0.2,0.2,0.06,1.6,0.2
+383,Spheal,95,90,172,Ice,Water,962,0.2,0.5,0.1,1.6,0.2
+384,Sealeo,137,132,207,Ice,Water,1714,0.3,0.25,0.07,1.6,0.2
+385,Walrein,182,176,242,Ice,Water,2726,0.3,0.125,0.05,1.6,0.2
+386,Clamperl,133,135,111,Water,Not Available,1270,0.1,0.5,0.1,1.6,0.2
+387,Huntail,197,179,146,Water,Not Available,2340,0.1,0.2,0.06,1.6,0.2
+388,Gorebyss,211,179,146,Water,Not Available,2494,0.1,0.2,0.06,1.6,0.2
+389,Relicanth,162,203,225,Water,Rock,2528,0.05,0.9,0.01,1.6,0.2
+390,Luvdisc,81,128,125,Water,Not Available,848,0.1,0.3,0.1,1.6,0.2
+391,Bagon,134,93,128,Dragon,Not Available,1156,0.2,0.4,0.09,1.6,0.2
+392,Shelgon,172,155,163,Dragon,Not Available,2031,0.3,0.1,0.06,1.6,0.2
+393,Salamence,277,168,216,Dragon,Flying,3749,0.3,0.05,0.05,1.6,0.2
+394,Beldum,96,132,120,Steel,Psychic,976,0.2,0.4,0.09,1.6,0.2
+395,Metang,138,176,155,Steel,Psychic,1721,0.2,0.1,0.06,1.6,0.2
+396,Metagross,257,228,190,Steel,Psychic,3791,0.3,0.05,0.05,1.6,0.2
+397,Regirock,179,309,190,Rock,Not Available,3122,0.2,0.02,0.01,1.6,0.2
+398,Regice,179,309,190,Ice,Not Available,3122,0.2,0.02,0.01,1.6,0.2
+399,Registeel,143,285,190,Steel,Not Available,2447,0.2,0.02,0.01,1.6,0.2
+400,Latias,228,246,190,Dragon,Psychic,3510,0.1,0.02,0.01,1.6,0.2
+401,Latios,268,212,190,Dragon,Psychic,3812,0.1,0.02,0.01,1.6,0.2
+402,Kyogre,270,228,205,Water,Not Available,4115,0.1,0.02,0.01,1.6,0.2
+403,Groudon,270,228,205,Ground,Not Available,4115,0.1,0.02,0.01,1.6,0.2
+404,Rayquaza,284,170,213,Dragon,Flying,3835,0.1,0.02,0.01,1.6,0.2
+405,Jirachi,210,210,225,Steel,Psychic,3265,0.1,0.02,0.01,1.6,0.2
+406,Deoxys,414,46,137,Psychic,Not Available,2580,0.1,0.06,0.01,1.6,0.2
+407,Deoxys,144,330,137,Psychic,Not Available,2274,0.1,0.06,0.01,1.6,0.2
+408,Deoxys,345,115,137,Psychic,Not Available,3160,0.1,0.06,0.01,1.6,0.2
+409,Deoxys,230,218,137,Psychic,Not Available,2879,0.1,0.06,0.01,1.6,0.2
+410,Turtwig,119,110,146,Grass,Not Available,1187,0.1,0.2,0.1,1.6,0.2
+411,Grotle,157,143,181,Grass,Not Available,1890,0.1,0.1,0.07,1.6,0.2
+412,Torterra,202,188,216,Grass,Ground,2934,0.2,0.05,0.05,1.6,0.2
+413,Chimchar,113,86,127,Fire,Not Available,957,0.1,0.2,0.1,1.6,0.2
+414,Monferno,158,105,162,Fire,Fighting,1574,0.1,0.1,0.07,1.6,0.2
+415,Infernape,222,151,183,Fire,Fighting,2683,0.2,0.05,0.05,1.6,0.2
+416,Piplup,112,102,142,Water,Not Available,1075,0.1,0.2,0.1,1.6,0.2
+417,Prinplup,150,139,162,Water,Not Available,1701,0.1,0.1,0.07,1.6,0.2
+418,Empoleon,210,186,197,Water,Steel,2900,0.2,0.05,0.05,1.6,0.2
+419,Starly,101,58,120,Normal,Flying,719,0.1,0.5,0.2,1.6,0.2
+420,Staravia,142,94,146,Normal,Flying,1299,0.1,0.25,0.09,1.6,0.2
+421,Staraptor,234,140,198,Normal,Flying,2825,0.2,0.125,0.06,1.6,0.2
+422,Bidoof,80,73,153,Normal,Not Available,721,0.2,0.5,0.2,1.6,0.2
+423,Bibarel,162,119,188,Normal,Water,1823,0.2,0.2,0.07,1.6,0.2
+424,Kricketot,45,74,114,Bug,Not Available,401,0.1,0.5,0.2,1.6,0.2
+425,Kricketune,160,100,184,Bug,Not Available,1653,0.1,0.2,0.07,1.6,0.2
+426,Shinx,117,64,128,Electric,Not Available,876,0.3,0.5,0.1,1.6,0.2
+427,Luxio,159,95,155,Electric,Not Available,1486,0.3,0.25,0.07,1.6,0.2
+428,Luxray,232,156,190,Electric,Not Available,2888,0.3,0.125,0.05,1.6,0.2
+429,Budew,91,109,120,Grass,Poison,856,0.1,0.1,0.04,1.6,0.2
+430,Roserade,243,185,155,Grass,Poison,2971,0.2,0.15,0.07,1.6,0.2
+431,Cranidos,218,71,167,Rock,Rock,1820,0.1,0.5,0.1,1.6,0.2
+432,Rampardos,295,109,219,Rock,Rock,3298,0.1,0.2,0.06,1.6,0.2
+433,Shieldon,76,195,102,Rock,Steel,890,0.1,0.5,0.1,1.6,0.2
+434,Bastiodon,94,286,155,Rock,Steel,1539,0.1,0.2,0.06,1.6,0.2
+435,Burmy,53,83,120,Bug,Not Available,488,0.05,0.5,0.2,1.6,0.2
+436,Burmy,53,83,120,Bug,Not Available,488,0.05,0.5,0.2,1.6,0.2
+437,Burmy,53,83,120,Bug,Not Available,488,0.05,0.5,0.2,1.6,0.2
+438,Wormadam,141,180,155,Bug,Grass,1773,0.05,0.15,0.07,1.6,0.2
+439,Wormadam,141,180,155,Bug,Ground,1773,0.05,0.15,0.07,1.6,0.2
+440,Wormadam,127,175,155,Bug,Steel,1593,0.05,0.15,0.07,1.6,0.2
+441,Mothim,185,98,172,Bug,Flying,1815,0.2,0.15,0.07,1.6,0.2
+442,Combee,59,83,102,Bug,Flying,494,0.05,0.15,0.07,1.6,0.2
+443,Vespiquen,149,190,172,Bug,Flying,2005,0.2,0.15,0.07,1.6,0.2
+444,Pachirisu,94,172,155,Electric,Not Available,1213,0.1,0.3,0.09,1.6,0.2
+445,Buizel,132,67,146,Water,Not Available,1054,0.1,0.5,0.1,1.6,0.2
+446,Floatzel,221,114,198,Water,Not Available,2443,0.1,0.2,0.06,1.6,0.2
+447,Cherubi,108,92,128,Grass,Not Available,950,0.1,0.5,0.09,1.6,0.2
+448,Cherrim,170,153,172,Grass,Not Available,2048,0.1,0.1,0.07,1.6,0.2
+449,Cherrim,170,153,172,Grass,Not Available,2048,0.1,0.1,0.07,1.6,0.2
+450,Shellos,103,105,183,Water,Not Available,1136,0.3,0.5,0.1,1.6,0.2
+451,Shellos,103,105,183,Water,Not Available,1136,0.3,0.5,0.1,1.6,0.2
+452,Gastrodon,169,143,244,Water,Ground,2324,0.1,0.2,0.06,1.6,0.2
+453,Gastrodon,169,143,244,Water,Ground,2324,0.1,0.2,0.06,1.6,0.2
+454,Ambipom,205,143,181,Normal,Not Available,2418,0.2,0.2,0.06,1.6,0.2
+455,Drifloon,117,80,207,Ghost,Flying,1197,0.05,0.4,0.1,1.6,0.2
+456,Drifblim,180,102,312,Ghost,Flying,2382,0.05,0.2,0.07,1.6,0.2
+457,Buneary,130,105,146,Normal,Not Available,1258,0.1,0.5,0.1,1.6,0.2
+458,Lopunny,156,194,163,Normal,Not Available,2059,0.3,0.2,0.06,1.6,0.2
+459,Mismagius,211,187,155,Ghost,Not Available,2615,0.2,0.1,0.07,1.6,0.2
+460,Honchkrow,243,103,225,Dark,Flying,2711,0.2,0.1,0.07,1.6,0.2
+461,Glameow,109,82,135,Normal,Not Available,934,0.3,0.4,0.1,1.6,0.2
+462,Purugly,172,133,174,Normal,Not Available,1953,0.1,0.15,0.08,1.6,0.2
+463,Chingling,114,94,128,Psychic,Not Available,1005,0.1,0.1,0.04,1.6,0.2
+464,Stunky,121,90,160,Poison,Dark,1151,0.2,0.5,0.1,1.6,0.2
+465,Skuntank,184,132,230,Poison,Dark,2358,0.2,0.2,0.06,1.6,0.2
+466,Bronzor,43,154,149,Steel,Psychic,603,0.1,0.5,0.1,1.6,0.2
+467,Bronzong,161,213,167,Steel,Psychic,2239,0.1,0.2,0.06,1.6,0.2
+468,Bonsly,124,133,137,Rock,Not Available,1302,0.1,0.1,0.04,1.6,0.2
+469,Mime Jr.,125,142,85,Psychic,Fairy,1095,0.1,0.1,0.04,1.6,0.2
+470,Happiny,25,77,225,Normal,Not Available,371,0.1,0.1,0.04,1.6,0.2
+471,Chatot,183,91,183,Normal,Flying,1791,0.2,0.3,0.09,1.6,0.2
+472,Spiritomb,169,199,137,Ghost,Dark,2072,0.4,0.1,0.04,1.6,0.2
+473,Gible,124,84,151,Dragon,Ground,1112,0.45,0.4,0.09,1.6,0.2
+474,Gabite,172,125,169,Dragon,Ground,1874,0.45,0.1,0.06,1.6,0.2
+475,Garchomp,261,193,239,Dragon,Ground,3962,0.45,0.05,0.05,1.6,0.2
+476,Munchlax,137,117,286,Normal,Not Available,1892,0.1,0.1,0.04,1.6,0.2
+477,Riolu,127,78,120,Fighting,Not Available,993,0.1,0.0,0.2,1.6,0.2
+478,Lucario,236,144,172,Fighting,Steel,2703,0.1,0.1,0.05,1.6,0.2
+479,Hippopotas,124,118,169,Ground,Not Available,1358,0.1,0.4,0.1,1.6,0.2
+480,Hippowdon,201,191,239,Ground,Not Available,3085,0.1,0.15,0.08,1.6,0.2
+481,Skorupi,93,151,120,Poison,Bug,1009,0.2,0.4,0.1,1.6,0.2
+482,Drapion,180,202,172,Poison,Dark,2453,0.2,0.15,0.08,1.6,0.2
+483,Croagunk,116,76,134,Poison,Fighting,952,0.25,0.4,0.12,1.6,0.2
+484,Toxicroak,211,133,195,Poison,Fighting,2488,0.25,0.15,0.07,1.6,0.2
+485,Carnivine,187,136,179,Grass,Not Available,2159,0.1,0.9,0.01,1.6,0.2
+486,Finneon,96,116,135,Water,Not Available,971,0.1,0.5,0.1,1.6,0.2
+487,Lumineon,142,170,170,Water,Not Available,1814,0.1,0.2,0.06,1.6,0.2
+488,Mantyke,105,179,128,Water,Flying,1248,0.1,0.1,0.04,1.6,0.2
+489,Snover,115,105,155,Grass,Ice,1159,0.2,0.3,0.1,1.6,0.2
+490,Abomasnow,178,158,207,Grass,Ice,2362,0.2,0.125,0.06,1.6,0.2
+491,Weavile,243,171,172,Dark,Ice,3005,0.2,0.15,0.09,1.6,0.2
+492,Magnezone,238,205,172,Electric,Steel,3205,0.2,0.125,0.05,1.6,0.2
+493,Lickilicky,161,181,242,Normal,Not Available,2467,0.2,0.15,0.09,1.6,0.2
+494,Rhyperior,241,190,251,Ground,Rock,3733,0.2,0.05,0.05,1.6,0.2
+495,Tangrowth,207,184,225,Grass,Not Available,3030,0.2,0.15,0.1,1.6,0.2
+496,Electivire,249,163,181,Electric,Not Available,3079,0.2,0.15,0.1,1.6,0.2
+497,Magmortar,247,172,181,Fire,Not Available,3132,0.2,0.15,0.1,1.6,0.2
+498,Togekiss,225,217,198,Fairy,Flying,3332,0.2,0.01,0.05,1.6,0.2
+499,Yanmega,231,156,200,Bug,Flying,2946,0.2,0.175,0.05,1.6,0.2
+500,Leafeon,216,219,163,Grass,Not Available,2944,0.2,0.125,0.06,1.6,0.2
+501,Glaceon,238,205,163,Ice,Not Available,3126,0.2,0.125,0.06,1.6,0.2
+502,Gliscor,185,222,181,Ground,Flying,2692,0.2,0.125,0.09,1.6,0.2
+503,Mamoswine,247,146,242,Ice,Ground,3328,0.2,0.05,0.05,1.6,0.2
+504,Porygon-Z,264,150,198,Normal,Not Available,3266,0.2,0.05,0.05,1.6,0.2
+505,Gallade,237,195,169,Psychic,Fighting,3093,0.2,0.5,0.05,1.6,0.2
+506,Probopass,135,275,155,Rock,Steel,2080,0.2,0.1,0.07,1.6,0.2
+507,Dusknoir,180,254,128,Ghost,Not Available,2388,0.2,0.1,0.05,1.6,0.2
+508,Froslass,171,150,172,Ice,Ghost,2040,0.2,0.2,0.07,1.6,0.2
+509,Rotom,204,219,137,Electric,Flying,2579,0.1,0.3,0.1,1.6,0.2
+510,Rotom,204,219,137,Electric,Ice,2579,0.1,0.3,0.1,1.6,0.2
+511,Rotom,204,219,137,Electric,Fire,2579,0.1,0.3,0.1,1.6,0.2
+512,Rotom,204,219,137,Electric,Grass,2579,0.1,0.3,0.1,1.6,0.2
+513,Rotom,185,159,137,Electric,Ghost,2031,0.1,0.3,0.1,1.6,0.2
+514,Rotom,204,219,137,Electric,Water,2579,0.1,0.3,0.1,1.6,0.2
+515,Uxie,156,270,181,Psychic,Not Available,2524,0.05,0.02,0.04,1.6,0.2
+516,Mesprit,212,212,190,Psychic,Not Available,3058,0.05,0.02,0.04,1.6,0.2
+517,Azelf,270,151,181,Psychic,Not Available,3210,0.05,0.02,0.04,1.6,0.2
+518,Dialga,275,211,205,Steel,Dragon,4038,0.1,0.02,0.04,1.6,0.2
+519,Palkia,280,215,189,Water,Dragon,3991,0.1,0.02,0.04,1.6,0.2
+520,Heatran,251,213,209,Fire,Steel,3754,0.2,0.02,0.04,1.6,0.2
+521,Regigigas,287,210,221,Normal,Not Available,4346,0.2,0.02,0.04,1.6,0.2
+522,Giratina,187,225,284,Ghost,Dragon,3379,0.2,0.02,0.04,1.6,0.2
+523,Giratina,225,187,284,Ghost,Dragon,3683,0.2,0.02,0.04,1.6,0.2
+524,Cresselia,152,258,260,Psychic,Not Available,2857,0.1,0.02,0.04,1.6,0.2
+525,Phione,162,162,190,Water,Not Available,2105,0.1,0.02,0.0,1.6,0.2
+526,Manaphy,210,210,225,Water,Not Available,3265,0.1,0.02,0.0,1.6,0.2
+527,Darkrai,285,198,172,Dark,Not Available,3739,0.1,0.02,0.0,1.6,0.2
+528,Shaymin,210,210,225,Grass,Not Available,3265,0.1,0.02,0.0,1.6,0.2
+529,Shaymin,261,166,225,Grass,Flying,3592,0.1,0.02,0.0,1.6,0.2
+530,Arceus,238,238,237,Bug,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+531,Arceus,238,238,237,Dark,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+532,Arceus,238,238,237,Dragon,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+533,Arceus,238,238,237,Electric,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+534,Arceus,238,238,237,Fairy,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+535,Arceus,238,238,237,Fighting,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+536,Arceus,238,238,237,Fire,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+537,Arceus,238,238,237,Flying,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+538,Arceus,238,238,237,Ghost,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+539,Arceus,238,238,237,Grass,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+540,Arceus,238,238,237,Ground,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+541,Arceus,238,238,237,Ice,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+542,Arceus,238,238,237,Normal,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+543,Arceus,238,238,237,Poison,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+544,Arceus,238,238,237,Psychic,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+545,Arceus,238,238,237,Rock,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+546,Arceus,238,238,237,Steel,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+547,Arceus,238,238,237,Water,Not Available,3989,0.1,0.02,0.0,1.6,0.2
+548,Meltan,118,99,130,Steel,Not Available,1068,0.1,0.3,0.0,1.6,0.2
+549,Melmetal,226,190,264,Steel,Not Available,3599,0.1,0.3,0.0,1.6,0.2
